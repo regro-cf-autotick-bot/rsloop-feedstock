@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.62"
+  version: "0.1.63"
 
 package:
   name: rsloop
@@ -9,7 +9,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/r/rsloop/rsloop-${{ version }}.tar.gz
-    sha256: f1509fca629ab60e999c68ec7070c7cfeb24eedc95402f5c53da7272dba8fe21
+    sha256: eb7a332cf9aeb8e0830f2eb2492ed9d7c1fc4ec2cba67529cc8f5b9c8b4f21ac
 
 build:
   number: 0
